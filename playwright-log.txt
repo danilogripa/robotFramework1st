@@ -1,0 +1,47 @@
+{"level":30,"time":"2021-12-23T01:04:25.919Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Listening on 65207"}
+{"level":30,"time":"2021-12-23T01:04:26.041Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:26.042Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:26.043Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:26.044Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:26.046Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2021-12-23T01:04:26.399Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method newBrowser"}
+{"level":30,"time":"2021-12-23T01:04:26.405Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method newContext"}
+{"level":30,"time":"2021-12-23T01:04:26.406Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-12-23T01:04:26.406Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Trace file: "}
+{"level":30,"time":"2021-12-23T01:04:26.420Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changed active context"}
+{"level":30,"time":"2021-12-23T01:04:26.420Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method newContext"}
+{"level":30,"time":"2021-12-23T01:04:26.424Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method newPage"}
+{"level":30,"time":"2021-12-23T01:04:26.424Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2021-12-23T01:04:26.673Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Video path: C:\\Users\\Avell\\robot\\browser\\video\\videos\\1afe7459976cfad5369b0f9862a908d7.webm"}
+{"level":30,"time":"2021-12-23T01:04:26.673Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changed active page"}
+{"level":30,"time":"2021-12-23T01:04:30.680Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method newPage"}
+{"level":30,"time":"2021-12-23T01:04:30.686Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method fillText"}
+{"level":30,"time":"2021-12-23T01:04:30.686Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Strict mode is enabled, find Locator with css=input[name=q] in page."}
+{"level":30,"time":"2021-12-23T01:04:30.728Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method fillText"}
+{"level":30,"time":"2021-12-23T01:04:30.731Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method click"}
+{"level":30,"time":"2021-12-23T01:04:30.732Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Strict mode is enabled, find Locator with :nth-match(:text(\"Pesquisa Google\"), 2) in page."}
+{"level":30,"time":"2021-12-23T01:04:31.083Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method click"}
+{"level":30,"time":"2021-12-23T01:04:31.087Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method getText"}
+{"level":30,"time":"2021-12-23T01:04:31.087Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Strict mode is enabled, find Locator with h2 > span in page."}
+{"level":30,"time":"2021-12-23T01:04:31.622Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Retrieved text for element h2 > span containing Robot Framework"}
+{"level":30,"time":"2021-12-23T01:04:31.622Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method getText"}
+{"level":30,"time":"2021-12-23T01:04:31.624Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:31.626Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:31.628Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changed active context"}
+{"level":30,"time":"2021-12-23T01:04:31.628Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-23T01:04:31.628Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changed active page"}
+{"level":30,"time":"2021-12-23T01:04:31.632Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:31.633Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:31.635Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2021-12-23T01:04:31.635Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2021-12-23T01:04:31.636Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2021-12-23T01:04:31.636Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2021-12-23T01:04:31.639Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changed active context"}
+{"level":30,"time":"2021-12-23T01:04:31.639Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changing current active page"}
+{"level":30,"time":"2021-12-23T01:04:31.639Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Changed active page"}
+{"level":30,"time":"2021-12-23T01:04:31.640Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method closeContext"}
+{"level":30,"time":"2021-12-23T01:04:31.747Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method closeContext"}
+{"level":30,"time":"2021-12-23T01:04:31.750Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:31.750Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2021-12-23T01:04:31.805Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2021-12-23T01:04:31.929Z","pid":20524,"hostname":"Danilo-Monstrobook","msg":"End of node method closeAllBrowsers"}
